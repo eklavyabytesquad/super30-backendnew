@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: text-processor-app
+    env: python
+    buildCommand: pip install -r requirement.txt
+    startCommand: python app.py
+    plan: free
+    healthCheckPath: /
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.16
+  
+  - type: cron
+    name: text-processor-job
+    env: python
+    buildCommand: pip install -r requirement.txt
+    startCommand: python app.py
+    schedule: "0 0 * * *"  # Run daily at midnight
+    plan: free

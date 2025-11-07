@@ -1,0 +1,38 @@
+{
+  "processed_items": [
+    {
+      "original_text": "🚀 Welcome to our amazing platform! 🎉 This is a revolutionary app that will change the way you work. With cutting-edge technology 💻 and user-friendly design 🎨, we provide seamless integration with your existing workflow. Our team has worked tirelessly to create something truly special. ✨ Join thousands of satisfied users who have already transformed their productivity! 📈 Don't wait - start your journey today! 🌟 #innovation #technology #productivity",
+      "cleaned_text": "Welcome to our amazing platform! This is a revolutionary app that will change the way you work. With cutting-edge technology and user-friendly design , we provide seamless integration with your existing workflow. Our team has worked tirelessly to create something truly special. Join thousands of satisfied users who have already transformed their productivity! Don't wait - start your journey today! innovation technology productivity",
+      "summary": "Welcome to our amazing platform! This is a revolutionary app that will change the way you work. With cutting-edge technology and user-friendly design , we provide seamless integration with your existi...",
+      "character_count_original": 451,
+      "character_count_cleaned": 435,
+      "character_count_summary": 203,
+      "id": 1
+    },
+    {
+      "original_text": "🌍 Climate change is one of the most pressing issues of our time. 🔥 Rising temperatures, melting ice caps ❄️, and extreme weather events are affecting millions of people worldwide. 🌪️ Scientists have been warning about these changes for decades, yet global action remains insufficient. 📊 We need immediate and comprehensive solutions including renewable energy adoption ⚡, sustainable transportation 🚗, and policy changes at all levels of government. The future of our planet depends on the actions we take today! 🌱",
+      "cleaned_text": "Climate change is one of the most pressing issues of our time. Rising temperatures, melting ice caps , and extreme weather events are affecting millions of people worldwide. Scientists have been warning about these changes for decades, yet global action remains insufficient. We need immediate and comprehensive solutions including renewable energy adoption , sustainable transportation , and policy changes at all levels of government. The future of our planet depends on the actions we take today!",
+      "summary": "Climate change is one of the most pressing issues of our time. Rising temperatures, melting ice caps , and extreme weather events are affecting millions of people worldwide. Scientists have been warni...",
+      "character_count_original": 514,
+      "character_count_cleaned": 499,
+      "character_count_summary": 203,
+      "id": 2
+    },
+    {
+      "original_text": "Learning Python 🐍 has been an incredible journey! From basic syntax to advanced concepts like machine learning 🤖 and web development 🕸️, Python offers endless possibilities. The language's simplicity and readability make it perfect for beginners, while its powerful libraries 📚 enable complex applications. Whether you're interested in data science 📊, automation 🔧, or building web applications, Python has something for everyone. Start coding today and unlock your potential! 💡✨",
+      "cleaned_text": "Learning Python has been an incredible journey! From basic syntax to advanced concepts like machine learning and web development , Python offers endless possibilities. The language's simplicity and readability make it perfect for beginners, while its powerful libraries enable complex applications. Whether you're interested in data science , automation , or building web applications, Python has something for everyone. Start coding today and unlock your potential!",
+      "summary": "Learning Python has been an incredible journey! From basic syntax to advanced concepts like machine learning and web development , Python offers endless possibilities. The language's simplicity and re...",
+      "character_count_original": 479,
+      "character_count_cleaned": 466,
+      "character_count_summary": 203,
+      "id": 3
+    }
+  ],
+  "total_items": 3,
+  "processing_info": {
+    "language": "english",
+    "summarization_method": "LSA (Latent Semantic Analysis)",
+    "emoji_removal": true,
+    "special_char_removal": true
+  }
+}
